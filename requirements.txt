@@ -1,0 +1,9 @@
+Flask
+pybase64
+jsonpickle
+pillow
+numpy
+opencv-python
+opencv-python-headless
+opencv-contrib-python
+requests
